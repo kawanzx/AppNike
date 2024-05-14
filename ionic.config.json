@@ -1,0 +1,7 @@
+{
+  "name": "AppNike",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

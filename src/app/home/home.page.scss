@@ -1,0 +1,151 @@
+
+
+ion-content {
+  --background: linear-gradient(167.55deg, #11998E -1.54%, #38EF7D 110.94%);
+
+}
+
+img {
+  position: absolute;
+
+  left: -14.64px;
+  top: 150px;
+}
+
+
+h1 {
+  
+position: absolute;
+width: 322px;
+height: 100px;
+left: 27px;
+top: 463px;
+
+font-family: "Holtwood One SC", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 50px;
+
+color: #144273;
+
+
+}
+
+.holtwood-one-sc-regular {
+  font-family: "Holtwood One SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+ 
+
+position: absolute;
+width: 368px;
+height: 116px;
+left: 28px;
+top: 629px;
+
+font-family: 'Istok Web';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+
+color: #FFFFFF;
+}
+
+.ano {
+
+
+position: absolute;
+width: 140px;
+height: 50px;
+left: 30px;
+top: 564px;
+
+font-family: 'Holtwood One SC';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 50px;
+
+color: #FFFFFF;
+}
+
+
+ion-button {
+  --display: flex;
+  --flex-direction: row;
+  --justify-content: center;
+  --align-items: center;
+  --padding: 24px;
+  --gap: 12px;
+  
+  position: absolute;
+  width: 240px;
+  height: 81px;
+  left: calc(50% - 240px/2);
+  top: 785px;
+  
+  --background: #F2C94C;
+  --box-shadow: 0px 9px 27px rgba(0, 0, 0, 0.25);
+  --border-radius: 400px;
+  
+
+}
+
+span {
+  width: 147px;
+  height: 29px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+
+    white-space: nowrap;
+
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+}
+
+.nike {
+width: 87px;
+height: 35px;
+top: 35px;
+left: 27px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.elipse {
+ 
+position: absolute;
+width: 207px;
+height: 207px;
+left: 0px;
+top: 245px;
+
+background: rgba(255, 222, 136, 0.85);
+filter: blur(75px);
+
+}
+
+.elipse2 {
+
+position: absolute;
+width: 221px;
+height: 221px;
+left: 260px;
+top: 52px;
+
+background: rgba(255, 255, 255, 0.3);
+filter: blur(75px);
+
+}
